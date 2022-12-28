@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="1-Course-Title.htm"
@@ -49,11 +49,11 @@
             mtype="seg"
             mid="1"
             comment="a">Start Course</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">MACHINE A</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-h1"
         phase-name="pretrans"><source>Welcome!</source><seg-source><mrk
